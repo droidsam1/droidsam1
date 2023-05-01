@@ -5,21 +5,17 @@
 ### I'm Samuel Taboas
 
 - 🎓 Technical Telecommunications Engineer in Telecommunications Systems
+- 🚀 Front-end bootcamp IronHack (Vue.js)
 - ☕ Java developer
-- ❄️ Learning and working with React
-- 🚀 Currently undertaking a front-end bootcamp at IronHack ( in Vue.js)
+- 🏗️ Currently working with AWS 𝝺
 
-### Languages and tools 👩‍💻
+<!-- ### Languages and tools 👩‍💻
 
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"></code>
-<code><img height="20" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></code> -->
 
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-<code><img height="20" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></code>
+
 
 <!-- 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> -->
